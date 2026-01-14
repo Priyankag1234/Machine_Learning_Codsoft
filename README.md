@@ -1,5 +1,7 @@
 # Machine_Learning_Codsoft
 📌 Projects Included
+
+
 1️⃣ Customer Churn Prediction
 
 Objective:
@@ -21,6 +23,8 @@ Support Vector Machine (SVM)
 
 Outcome:
 Achieved strong prediction accuracy and identified key churn-driving factors.
+
+
 
 2️⃣ SMS Spam Detection
 
@@ -45,6 +49,8 @@ Support Vector Machine (SVM)
 
 Outcome:
 High accuracy spam classification (~98–99%) using TF-IDF + SVM.
+
+
 
 3️⃣ Movie Genre Classification
 
@@ -104,24 +110,8 @@ F1-score
 
 Confusion Matrix
 
-🚀 How to Run the Projects
-
-Clone the repository:
-
-git clone https://github.com/Priyankag1234/Machine_Learning_Codsoft.git
 
 
-Navigate to the project folder:
-
-cd Machine_Learning_Codsoft
-
-
-Install required dependencies:
-
-pip install -r requirements.txt
-
-
-Run the desired project script or notebook.
 
 🎯 Learning Outcomes
 
